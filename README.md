@@ -1,3 +1,4 @@
+THIS IS THE FRONTEND
 Here's a clean and professional documentation snippet you can include in your `README.md` or docs for your project:
 
 ---
